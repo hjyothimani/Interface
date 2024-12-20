@@ -15,6 +15,7 @@ namespace Interface
             var h=k.add(10,30);
             Console.WriteLine(h.Item1);
             Console.WriteLine(h.Item2);
+            Console.WriteLine("hi");
         }
     }
 }
